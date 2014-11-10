@@ -1,0 +1,126 @@
+h1 {
+	font-family: "impact", sans-serif !important;
+	color: #fff !important;
+	font-size: 500%;
+}
+
+h2 {
+	font-family: "impact", sans-serif !important;
+	color: #fff !important;
+	font-size: 300%;
+}
+
+h5 {
+	color: #fff;
+	font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 36px;
+	font-weight: lighter;
+}
+
+p {
+	color: #fff !important;
+}
+
+#backgroundIndex {
+	background-color: #000;
+	background: url('../images/2934435166_b6f03e729f_obis.jpg') no-repeat center center fixed;
+	height: 100%;
+	display: block;
+	opacity: 0.7;
+	background-size: cover;
+
+	-webkit-filter: blur(5px);
+	-moz-filter: blur(5px);
+	-o-filter: blur(5px);
+	-ms-filter: blur(5px);
+	filter: blur(5px);
+}
+
+#backgroundMap {
+	background-color: #000;
+	background: url('../images/529341956_19eff5c9b1_o.jpg') no-repeat center center fixed;
+	height: 100%;
+	display: block;
+	opacity: 0.7;
+	background-size: cover;
+
+	-webkit-filter: blur(5px);
+	-moz-filter: blur(5px);
+	-o-filter: blur(5px);
+	-ms-filter: blur(5px);
+	filter: blur(5px);
+}
+
+#backgroundContact {
+	background-color: #000;
+	background: url('../images/2459733250_28504c43ce_o.jpg') no-repeat center center fixed;
+	height: 100%;
+	display: block;
+	opacity: 0.7;
+	background-size: cover;
+
+	-webkit-filter: blur(5px);
+	-moz-filter: blur(5px);
+	-o-filter: blur(5px);
+	-ms-filter: blur(5px);
+	filter: blur(5px);
+}
+
+#backgroundCredit {
+	background-color: #000;
+	background: url('../images/2937629367_142c012ac4_o.jpg') no-repeat center center fixed;
+	height: 100%;
+	display: block;
+	opacity: 0.7;
+	background-size: cover;
+
+	-webkit-filter: blur(5px);
+	-moz-filter: blur(5px);
+	-o-filter: blur(5px);
+	-ms-filter: blur(5px);
+	filter: blur(5px);
+}
+
+#content {
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+}
+
+.pure-g {
+	width: 100%;
+}
+
+.subtitle {
+	position: relative;
+	top: 45px;
+}
+
+.pure-button {
+	background-color: rgba(0, 0, 0, 0);
+	display: block;
+	width: 100px;
+	opacity: 0.4;
+	margin-left: auto;
+  margin-right: auto;
+}
+.pure-button:hover {
+	background-color: rgba(0, 0, 0, 0);
+}
+
+.text {
+	font-family: proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 26px;
+	font-weight: 300;
+	line-height: 36px;
+	font-weight: lighter;
+}
+
+.textButton {
+	font-family: "helvetica", sans-serif !important;
+	font-weight: lighter;
+}
