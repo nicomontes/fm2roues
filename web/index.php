@@ -17,13 +17,13 @@
 						<p class="text">
 							Garage de réparation Moto, Quad, Vélo et Outillage de jardinage.<br/>
 							Vente de pièces et d'équipements pour le motard.<br/>
-							Dépot vente gratuit.
+							Dépôt vente gratuit.
 						</p>
 					</div>
 					<div class="pure-u-md-1-3">
 						<a href="map.html" class="pure-button">
 							<i class="fa fa-map-marker fa-inverse fa-2x"></i>
-							<br/><p class="textButton">Map</p>
+							<br/><p class="textButton">Carte</p>
 						</a>
 					</div>
 					<div class="pure-u-md-1-3">
@@ -35,7 +35,7 @@
 					<div class="pure-u-md-1-3">
 						<a href="credit.html" class="pure-button">
 							<i class="fa fa-align-justify fa-inverse fa-2x"></i>
-							<br/><p class="textButton">Credit</p>
+							<br/><p class="textButton">Crédits</p>
 						</a>
 					</div>
 				<div>
